@@ -9,6 +9,6 @@
 9. git init
 10.git add *
 11  git status
-12 git commit -m 第一次提交
+12 git commit -m 碌脷脪禄麓脦脤谩陆禄
 13 touch 1.html --> git add 1.html --> git commit
 14 git log
